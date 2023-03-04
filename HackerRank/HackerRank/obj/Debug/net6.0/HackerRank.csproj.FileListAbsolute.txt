@@ -1,0 +1,17 @@
+C:\Users\malpy\source\repos\HackerRank\HackerRank\bin\Debug\net6.0\HackerRank.exe
+C:\Users\malpy\source\repos\HackerRank\HackerRank\bin\Debug\net6.0\HackerRank.deps.json
+C:\Users\malpy\source\repos\HackerRank\HackerRank\bin\Debug\net6.0\HackerRank.runtimeconfig.json
+C:\Users\malpy\source\repos\HackerRank\HackerRank\bin\Debug\net6.0\HackerRank.dll
+C:\Users\malpy\source\repos\HackerRank\HackerRank\bin\Debug\net6.0\HackerRank.pdb
+C:\Users\malpy\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.csproj.AssemblyReference.cache
+C:\Users\malpy\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malpy\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.AssemblyInfoInputs.cache
+C:\Users\malpy\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.AssemblyInfo.cs
+C:\Users\malpy\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.csproj.CoreCompileInputs.cache
+C:\Users\malpy\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.dll
+C:\Users\malpy\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\refint\HackerRank.dll
+C:\Users\malpy\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.pdb
+C:\Users\malpy\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.genruntimeconfig.cache
+C:\Users\malpy\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\ref\HackerRank.dll
+C:\Users\malpy\source\repos\HackerRank\HackerRank\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\malpy\source\repos\HackerRank\HackerRank\obj\Debug\net6.0\HackerRank.csproj.CopyComplete
